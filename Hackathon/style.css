@@ -31,7 +31,7 @@ p{
 }
 .round {
   border-radius: 50%;
-  border: 5px solid red;
+  border: 5px solid var(--main-color);
   padding: 5px;
   width: 200px;
   
@@ -353,7 +353,6 @@ html::-webkit-scrollbar-thumb{
 .footer{
   background: #591e75;
     padding: 3rem;
-      border-radius: 30px;
 }
 
 .footer .box-container{
